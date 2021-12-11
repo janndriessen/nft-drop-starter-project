@@ -1,0 +1,23 @@
+{
+  "name": "yennefer",
+  "symbol": "",
+  "image": "1.png",
+  "collection": {
+    "name": "The Witcher on Solana Season #1",
+    "family": "The Witcher on Solana"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HabbMfV138G7Q1ZjqaLZd6CtpwUUSCxbEzKPtMmf4BTy",
+        "share": 100
+      }
+    ]
+  }
+}
